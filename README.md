@@ -19,7 +19,7 @@ Packages required:
 - cowplot
 - xtable
 
-''' R
+``` R
 
 install.packages(c("ggplot2","gdata","gridExtra","cowplot", "dplyr","tidyverse","xtable", "msm", "doParallel", "stringr","ggpubr","rstatix"))
-'''
+```
